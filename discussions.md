@@ -1,4 +1,4 @@
-[Debating about (S)etup > (V)erify > (E)xercise > (T)ear-down](https://github.com/Worldpackers/worldpackersplatform/pull/2391)
+[Debating about (S)etup > (E)xercise > (V)erify > (T)ear-down](https://github.com/Worldpackers/worldpackersplatform/pull/2391)
 
 [Better Exercise](https://github.com/Worldpackers/worldpackersplatform/pull/2420)
 
