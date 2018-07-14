@@ -1,17 +1,15 @@
-* Setup bem claro e explicito.
-  * Dentro do contexto.
-  * Exemplo: `spec/models/content/live_spec.rb`
-  * Problema recorrente? Duplicação de código. Achar o balanço entre a duplicação e o desacoplamento.
+* Clear and explicit setup:
+  * Inside a context block.
+  * Example: `spec/models/content/live_spec.rb`
+  * What is the problem here? Code duplication. We need to find the balance between duplication and uncoupled code.
 
+- Test (only) what need to be tested:
+  * Think about "use cases": context block helps in this case.
+  * Example: `spec/models/content/live_spec.rb`
 
-- Testar o que realmente deve ser testado.
-  * Pensar em casos de uso: context
-  * Exemplo: `spec/models/content/live_spec.rb`
-
-
-* Para endpoints da APIs.
-  * Desacoplamento de actions.
-  * Exemplo: `spec/api/v11/hosts/volunteer_positions/*`
+* For APIs endpoints:
+  * Decoupling controllers actions.
+  * Example: `spec/api/v11/hosts/volunteer_positions/*`
 
 --------
 
